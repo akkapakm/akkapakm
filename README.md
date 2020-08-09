@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am back!
+### I am back now, alive! 👋
 
 <!--
 **mkapakka/mkapakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
