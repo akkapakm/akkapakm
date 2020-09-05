@@ -1,7 +1,7 @@
 ### I am back now, alive! 👋
 
-[![mkapakka's github stats](https://github-readme-stats.vercel.app/api?username=mkapakka&show_icons=true&theme=cobalt)](https://github.com/mkapakka/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkapakka&layout=compact)](https://github.com/mkapakka/)
+[![mkapakka's github stats](https://github-readme-stats.vercel.app/api?username=akkapakm&show_icons=true&theme=cobalt)](https://github.com/akkapakm/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akkapakm&layout=compact)](https://github.com/akkapakm/)
 
 <!--
 **mkapakka/mkapakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
